@@ -1,5 +1,7 @@
 # Full Stack Java Developer
+      
       Highly motivated software engineer and demonstrated ability to quickly master new technologies and methodologies and apply them to deliver high-quality solutions.Seeking to leverage project experience from coursework and self-driven projects to transition into a Software Development Engineer role.
+      
       
 ### Skills
 - **Technologies**: Java SE, JPA, HTML, CSS
