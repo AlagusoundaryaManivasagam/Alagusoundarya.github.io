@@ -2,7 +2,7 @@
 
 [Email](alagusoundarya1995@gmail.com) |[LinkedIn](https://www.linkedin.com/in/alagusoundarya-manivasagam/ )| [GitHub](https://github.com/AlagusoundaryaManivasagam)
 
-### Professional Summary    
+ 
 
 Highly motivated software engineer and demonstrated ability to quickly master new technologies and methodologies and apply them to deliver high-quality solutions.Seeking to leverage project experience from coursework and self-driven projects to transition into a Software Development Engineer role.
       
