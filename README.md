@@ -1,6 +1,7 @@
 # Full Stack Java Developer
-alagusoundarya1995@gmail.com |https://www.linkedin.com/in/alagusoundarya-manivasagam/ |https://github.com/AlagusoundaryaManivasagam/
- 
+=========================================================================================
+[Email](alagusoundarya1995@gmail.com) |[LinkedIn](https://www.linkedin.com/in/alagusoundarya-manivasagam/ )| []GitHub](https://github.com/AlagusoundaryaManivasagam/)
+---------------------------------------------------------------------------------------- 
       Highly motivated software engineer and demonstrated ability to quickly master new technologies and methodologies and apply them to deliver high-quality solutions.Seeking to leverage project experience from coursework and self-driven projects to transition into a Software Development Engineer role.
       
       
