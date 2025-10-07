@@ -1,6 +1,6 @@
 ### Full Stack Java Developer
 
-[Email](alagusoundarya1995@gmail.com) |[LinkedIn](https://www.linkedin.com/in/alagusoundarya-manivasagam/ )| [GitHub](https://github.com/AlagusoundaryaManivasagam)
+[Email](alagusoundarya1995@gmail.com) | [GitHub](https://github.com/AlagusoundaryaManivasagam)
 
  
 
@@ -10,7 +10,7 @@ Highly motivated software engineer and demonstrated ability to quickly master ne
 ### Skills
 - **Technologies**: Java EE, JPA, HTML, CSS,Java Spring & Spring Boot, Rest API, Microservices
 - **Tools**: Eclipse, IntelliJ IDEA,  MS Office Tools, GitHub, Maven, Jenkins(CI/CD),Postman
-- **Programming Languages**: Java, C, C++,  HTML, CSS, JS, NodeJS, React
+- **Programming Languages**: Java, C, C++,  HTML, CSS, JS, ExpressJS, NodeJS, React
 - **Methodologies**: Agile and Scrum
 - **Life Cycle**: SDLC, STLC, Defect Life Cycle.
 
@@ -23,6 +23,14 @@ Highly motivated software engineer and demonstrated ability to quickly master ne
 **Project Title**: Financial planner
 **Technologies**: Spring MVC, Spring Data JPA, MySQL, Java, HTML & CSS, Bootstrap, Maven, J unit, Spring security, SLF4J, AJAX, JS, Github.
 **Objective**: A planner app to keep track of monthly incomes, expenses and budget and it gives a spending summary of the past 6 months. Entries of any particular month can be viewed and altered with ease and the monthly records will be updated accordingly.
+
+**Project Title**: LoveFlames  Game
+**Technologies**: HTML, CSS and Javascript.
+**Objective**: The LoveFlames Game game is a single page static web application. Participants enter their names, and the game generates a fun evaluation based on the input.
+
+**Project Title**: Quizzy
+**Technologies**: React, ExpressJS, NodeJS and PostgreSQL.
+**Objective**: A dynamic Quiz app that allows users to participate in various quizzes, providing an engaging and interactive learning experience. Users can attempt quizzes, receive immediate grading, and review their performance for future improvement.
 
 ### ACHIEVEMENTS:
 - Ranked **5**th in **IIT Entrance Exam (GATE 2017)** - Demonstrated self-directed learning, and strong analytical and problem-solving skills, which have been applied in software development challenges and algorithm design. 
