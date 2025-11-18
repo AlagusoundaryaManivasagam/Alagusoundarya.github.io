@@ -1,6 +1,6 @@
 ### Full Stack Java Developer
 
-[Email](alagusoundarya1995@gmail.com) | [GitHub](https://github.com/AlagusoundaryaManivasagam)
+[Email](alagusoundarya1995@gmail.com) | [GitHub](https://github.com/AlagusoundaryaManivasagam) | [LinkedIn](www.linkedin.com/in/alagusoundarya-manivasagam)
 
  
 
